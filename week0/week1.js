@@ -1,0 +1,10 @@
+const myName = 'Jim';
+let myAge = 63.3;
+const names =['Rahman','Jim', 'Frank' ];
+const isClass8 = true;
+var myLength= 1.8;
+let firstName = names[0];
+console.log(isClass8);
+console.log(names);
+console.log(firstName);
+console.log(names.length);
