@@ -1,0 +1,47 @@
+
+ul {
+    padding: 8px 8px;
+    margin-bottom: 30px;
+}
+
+li {
+    padding: 6px;
+    margin-left: 6px;
+    color:rgb(36, 28, 28);
+    font-size: 100%;
+    list-style-type: none;
+}
+img {
+    width: 300px;
+    margin: auto 15px;
+    height: 300px;
+    border: 3px solid rgb(45, 0, 128);
+    float: left;
+    border-radius: 50px;
+    box-shadow: 10px 10px 5px rgb(248, 252, 17);
+}
+
+h1 {
+    font-family: Papyrus, fantasy;
+    color: rgb(40, 250, 85);
+    margin-bottom:10px;
+    font-family: 'VT323', monospace;
+
+}
+
+
+P{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(6, 39, 54);
+    font-size:20px;
+    
+    
+}
+span{
+    font-weight: bold;
+    color:black;
+
+}
+body {
+    background:grey;
+}
